@@ -1,0 +1,17 @@
+{
+  "page1": {
+    "Root": {
+      "state": ["cardStatusMap","code"],
+      "getters": ["list",{"list1": "list"}],
+      "mutations": ["setCode"]
+    },
+    "OrderListState": {
+      "state": [{"num1" : "num"}],
+      "mutations": ["addNum"]
+    },
+    "OrderDetailState": {
+      "state": ["id"],
+      "mutations": [{"setId1": "setId"}]
+    }
+  }
+}

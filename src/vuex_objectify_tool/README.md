@@ -1,0 +1,1 @@
+# vuex-objectify-tool
